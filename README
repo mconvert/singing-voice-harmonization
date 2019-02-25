@@ -1,0 +1,6 @@
+Investigate whether building singing voice harmonization models from Raw F0 signals rather than discretized pitches (symbolic MIDI) allows for more robustness in generated output harmonizations. Results suggested otherwise.
+
+The data was obtained from the RWC Pop songs dataset dataset.
+
+Related literature review:
+MySong 
